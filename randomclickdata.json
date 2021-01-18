@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "Credits" : 10,
+    "CreditsPerClicks" : 1,
+    "generators" : [
+      {
+        "Name":"Generator 1",
+        "AmountPerSec":0.1,
+        "Quantity":1,
+        "Cost":10
+      },
+      {
+        "Name":"Generator 2",
+        "AmountPerSec":1,
+        "Quantity":0,
+        "Cost":100
+      },
+      {
+        "Name":"Generator 3",
+        "AmountPerSec":10,
+        "Quantity":0,
+        "Cost":1000
+      }
+    ],
+    "boosters" : [
+      {
+        "Name":"Click Booster 1",
+        "Boost":1,
+        "Quantity":0,
+        "Cost":10
+      }
+    ]
+  }
+]
